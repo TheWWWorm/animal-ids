@@ -1,0 +1,19 @@
+{
+  "name": "animal-ids",
+  "version": "1.0.0",
+  "description": "Generate readable IDs from animal nouns and adjectives",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheWWWorm/animal-ids.git"
+  },
+  "author": "TheWWWorm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheWWWorm/animal-ids/issues"
+  },
+  "homepage": "https://github.com/TheWWWorm/animal-ids#readme"
+}

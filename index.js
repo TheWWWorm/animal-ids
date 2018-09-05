@@ -1,7 +1,7 @@
 'use strict';
 
-const animals = require('./const/id_generator/animals.json');
-const adjectives = require('./const/id_generator/adjectives.json');
+const animals = require('./const/animals.json');
+const adjectives = require('./const/adjectives.json');
 
 function getRandomElement(arr) {
     return arr[Math.floor(Math.random() * arr.length)];
